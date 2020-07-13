@@ -1,24 +1,7 @@
-# README
+# Step 1: Get the app running
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+You'll need to install the Ruby language and Rails (a Ruby Gem).  There's plenty of guides and StackOverflow questions to help you.
 
-Things you may want to cover:
+Once you've got the Rails server running locally, http://localhost:3000 should give you the app landing page.
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+# Step 2
