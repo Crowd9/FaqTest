@@ -6,7 +6,7 @@ This test is designed to test your skills in writing, development, and resourcef
 
 ## Get the app running
 
-Step 1, take a "Fork" in github of this repository.  Take a clone of that repository locally.
+Step 1, take a fork in github of this repository.  Take a clone of that repository locally.
 
 You'll need to install the Ruby language and Rails (a Ruby Gem).  There's plenty of guides and StackOverflow questions to help you.
 
@@ -16,7 +16,11 @@ Once you've done that, run `bundle exec rake db:seed` to create the example data
 
 ## The task
 
-Your task is to read through the queries, build up a knowledge base of common questions/answers, then present that to users attempting to contact us.  The idea is that the knowledge base answers their questions so we don't have to :-) 
+1. Your task is to read through the queries that users have sent in.
+2. Create up a knowledge base of questions/answers for the queries.  You will need to read our docs to find the answers.  Many can just be found by Googling (e.g. 'Gleam MailChimp') for answers.  Some aren't answered there so you'll need to ask us in Slack.
+3. Present the knowledge base to users attempting to contact us.
+
+The idea is that the knowledge base answers their questions so we don't have to.  The presentation of the knowledge base doesn't need to be perfect UX/Design but needs to update based on their query they're entering so it scales past 5 entries.  E.g. if they're typing something about 'PayPal', it should show the knowledge base entry about us not accepting PayPal. 
 
 Maximum of 8 hours paid at 20 USD/hr (invite only, please don't tweet this test ;-) ).
 
