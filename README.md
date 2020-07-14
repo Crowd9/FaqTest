@@ -16,7 +16,7 @@ Once you've done that, run `bundle exec rake db:seed` to create the example data
 
 ## The task
 
-1. Your task is to read through the queries that users have sent in.
+1. Read through the queries that users have sent in.
 2. Create up a knowledge base of questions/answers for the queries.  You will need to read our docs to find the answers.  Many can just be found by Googling (e.g. 'Gleam MailChimp') for answers.  Some aren't answered there so you'll need to ask us in Slack.
 3. Present the knowledge base to users attempting to contact us.
 
